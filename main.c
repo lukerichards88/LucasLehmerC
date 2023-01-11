@@ -1,5 +1,13 @@
 //
 // Created by lukerichards on 11/01/23.
+// The point of this file is to find a way to implement the Lucas Lehmer
+// Primality test using ONLY the following C functionality:
+// int
+// operators (e.g. +, -, *, /, <, > etc)
+// while loops
+// printf() to display the results
+// I am purposesfully NOT using any other C functionality, e.g. arrays or
+// other functions.
 //
 #include <stdio.h>
 
